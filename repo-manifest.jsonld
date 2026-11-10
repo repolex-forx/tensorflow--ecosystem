@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/tensorflow/ecosystem/commit/c39378894bf080843a86edacd0176c53f70d939f",
       "git:hexsha": "c39378894bf080843a86edacd0176c53f70d939f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-10T07:07:58.459282+00:00"
     }
   ]
 }
